@@ -498,7 +498,6 @@ Every INCOIS call has a silent-fail path:
 
 *AquaVerse is a capstone project for Final Year Engineering. It provides real-time beach safety information using INCOIS ocean data for educational and safety awareness purposes.*
 
+## Presentation
 
-## PPT Link 
-
-https://gamma.app/docs/AquaVerse-4b54t2zvkasfqkz
+[View Project Presentation](https://gamma.app/docs/AquaVerse-4b54t2zvkasfqkz)
